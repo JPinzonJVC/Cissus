@@ -1,5 +1,4 @@
-# library-management-system
-# 📚 BibliotecApp
+# 📚 Cissus
 
 **A Multi-Library Management System with Business Intelligence capabilities.**
 
